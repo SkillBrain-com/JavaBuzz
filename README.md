@@ -1,2 +1,2 @@
 # JavaBuzz
-Java Buzz
+This is the legendary repository for Java Buzz Team
